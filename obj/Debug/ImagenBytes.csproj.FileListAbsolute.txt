@@ -1,0 +1,9 @@
+c:\users\alberto\documents\visual studio 2017\Projects\ImagenBytes\ImagenBytes\bin\Debug\ImagenBytes.exe.config
+c:\users\alberto\documents\visual studio 2017\Projects\ImagenBytes\ImagenBytes\bin\Debug\ImagenBytes.exe
+c:\users\alberto\documents\visual studio 2017\Projects\ImagenBytes\ImagenBytes\bin\Debug\ImagenBytes.pdb
+c:\users\alberto\documents\visual studio 2017\Projects\ImagenBytes\ImagenBytes\obj\Debug\ImagenBytes.csprojResolveAssemblyReference.cache
+c:\users\alberto\documents\visual studio 2017\Projects\ImagenBytes\ImagenBytes\obj\Debug\ImagenBytes.Form1.resources
+c:\users\alberto\documents\visual studio 2017\Projects\ImagenBytes\ImagenBytes\obj\Debug\ImagenBytes.Properties.Resources.resources
+c:\users\alberto\documents\visual studio 2017\Projects\ImagenBytes\ImagenBytes\obj\Debug\ImagenBytes.csproj.GenerateResource.Cache
+c:\users\alberto\documents\visual studio 2017\Projects\ImagenBytes\ImagenBytes\obj\Debug\ImagenBytes.exe
+c:\users\alberto\documents\visual studio 2017\Projects\ImagenBytes\ImagenBytes\obj\Debug\ImagenBytes.pdb
